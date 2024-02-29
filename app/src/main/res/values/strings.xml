@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YourApp</string>
+    <string name="enter_url">Masukkan URL Manual</string>
+    <string name="encrypt">Enkripsi</string>
+    <string name="start_exam">Mulai Ujian</string>
+    <string name="pin_app">Sematkan Aplikasi</string>
+    <string name="exit">Keluar</string>
+    <string name="instructions">sss.</string>
+    <string name="currentLink">"This is Current Exam Link"</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
