@@ -16,18 +16,20 @@ Welcome to Chipper Exam Guard, an Android application dedicated to enhancing the
 
 To use Chipper Exam Guard, follow these steps:
 
-1. Clone the repository: `[git clone https://github.com/AndiZulQadri/CipherExamBrowser.git]`
-2. Open the project in Android Studio.
-3. Build and run the application on an Android device or emulator.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AndiZulQadri/CipherExamBrowser.git
+3. Open the project in Android Studio.
+4. Build and run the application on an Android device or emulator.
 
 ## Usage
 
 - Teachers: Use the second application to encrypt exam links and ensure a secure exam environment.
   'https://github.com/AndiZulQadri/EncripterForChipperExamGuard.git'
 - Students: Decrypt exam links and take exams in a protected environment.
-Access Restriction:
-The application prevents users from opening other applications during exams.
-If users attempt to do so, they are prompted to face the invigilator to continue the examination.
+- Access Restriction:
+  ¬ The application prevents users from opening other applications during exams.
+  ¬ If users attempt to do so, they are prompted to face the invigilator to continue the examination.
 
 ## Contributions
 
